@@ -3,6 +3,8 @@
 Welcome to IUNIT. The lightweight extensible unit testing framework for IBM i.  
 Check [prerequisites.](https://github.com/i-unit/iunit/blob/master/PREREQUISITES.md)  
 
+Comment from Sandro
+
 ## Building
 git clone https://github.com/i-unit/iunit.git  
 cd iunit  
@@ -46,3 +48,5 @@ Did you add functions to IUNIT (like logging)?. Consider contributing back by cr
 ## License
 [MIT](https://opensource.org/licenses/MIT)
 Copyright 2019 [Remain BV](https://remainsoftware.com) 
+
+
